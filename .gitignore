@@ -1,0 +1,7 @@
+pyenv
+.idea
+*.pyc
+myapp
+*.sublime-*
+venv
+
