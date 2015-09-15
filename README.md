@@ -1,3 +1,7 @@
+# Backend Auth service template
+
+Backend user auth service written in Python. Uses pewee, oauth2, flask
+
 #Installation
 * Install python dependencies with
 ```
